@@ -18,22 +18,23 @@ By conducting an exploratory data analysis (EDA) on this data, our goal is to un
 
 ## Dataset
 The dataset used in this project is sourced from [here](https://drive.google.com/file/d/1ioU5r9KEYSfwgfUi22SclVkx4l1a_8ou/view?usp=sharing). It comprises a comprehensive collection of information related to Airbnb bookings, including:
-> ID:-    Its a unique id of House/apartment.
-> Name:-  Name of the listing House/apartment.
-> Host Id:-  Host Id is the government approved id for each individuals.
-> Neighbourhood groups:-  Neighbourhood groups are the cluster of neighbourhoods in the area.
-> Neighbourhood:-  Area
-> Latitude:- Its show the latitude point of the site.
-> Longitude:-  Its show the longitude point of the site.
-> Room type:-  There are three types of rooms in Airbnb
+UNDERSTANDING THE VARIABLES:--
+* ID:-    Its a unique id of House/apartment.
+* Name:-  Name of the listing House/apartment.
+* Host Id:-  Host Id is the government approved id for each individuals.
+* Neighbourhood groups:-  Neighbourhood groups are the cluster of neighbourhoods in the area.
+* Neighbourhood:-  Area
+* Latitude:- Its show the latitude point of the site.
+* Longitude:-  Its show the longitude point of the site.
+* Room type:-  There are three types of rooms in Airbnb
          >> Entire House/Apartment
          >> Private Room
          >> Shared Room
-> Price:-  price are in term of dollars($) and the total price of Airbnb  reservation is based on the cost
+* Price:-  price are in term of dollars($) and the total price of Airbnb  reservation is based on the cost
 determined by either the Host or Airbnb Co.
-> Minimum Nights:-  Minimun night is criteria for booking that guest have to pay for book that House or apartment.
-> Number of reviews:-  counts of review which is submitted by guests.
-> Last review:-  Latest review as per the dataset.
-> Review per month:- Number of review per month host got.
-> Calculated host listings count:-  Amount of listing per host.
-> Availibility_365:- It show the total number of days the listings is available for during the year.
+* Minimum Nights:-  Minimun night is criteria for booking that guest have to pay for book that House or apartment.
+* Number of reviews:-  counts of review which is submitted by guests.
+* Last review:-  Latest review as per the dataset.
+* Review per month:- Number of review per month host got.
+* Calculated host listings count:-  Amount of listing per host.
+* Availibility_365:- It show the total number of days the listings is available for during the year.
