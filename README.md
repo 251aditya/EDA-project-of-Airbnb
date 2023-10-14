@@ -18,6 +18,8 @@ By conducting an exploratory data analysis (EDA) on this data, our goal is to un
 
 ## Dataset
 The dataset used in this project is sourced from [here](https://drive.google.com/file/d/1ioU5r9KEYSfwgfUi22SclVkx4l1a_8ou/view?usp=sharing). It comprises a comprehensive collection of information related to Airbnb bookings, including:
+
+
 UNDERSTANDING THE VARIABLES:--
 * ID:-    Its a unique id of House/apartment.
 * Name:-  Name of the listing House/apartment.
