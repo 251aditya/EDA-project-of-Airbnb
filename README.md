@@ -29,9 +29,8 @@ UNDERSTANDING THE VARIABLES:
                   >> Entire House/Apartment
                   >> Privae Room
                   >> Shared Room
-         Price:-  price are in term of dollars($) and the total price of Airbnb  reservation is based on the cost
-         determined by either the Host or Airbnb Co.
-         Minimum Nights:-  Minimun night is criteria for booking that guest have to pay for book that House or                  apartment.
+         Price:-  price are in term of dollars($) and the total price of Airbnb  reservation is based on the cost determined by either the Host or Airbnb Co.
+         Minimum Nights:-  Minimun night is criteria for booking that guest have to pay for book that House or apartment.                  
          Number of reviews:-  counts of review which is submitted by guests.
          Last review:-  Latest review as per the dataset.
          Review per month:- Number of review per month host got.
