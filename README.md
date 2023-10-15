@@ -10,13 +10,14 @@
 The "AirBnB Booking Analysis" project focuses on exploring and analyzing the booking data of AirBnB rentals to gain valuable insights into the trends, patterns, and factors influencing the booking process. Airbnb is a popular online marketplace that connects travelers with hosts who offer unique lodging options around the world.
 I have conducted an exploratory data analysis (EDA) of Airbnb NYC 2019 data to gain insights into the Airbnb market in New York City.
 
-By conducting an exploratory data analysis (EDA) on this data, our goal is to understand the preferences of travelers and hosts, identify peak booking seasons, and discover interesting correlations between various attributes and booking trends. It empowers travelers to make informed choices when selecting AirBnB accommodations that best align with their preferences and requirements.
+By conducting exploratory data analysis (EDA) on this data, our goal is to understand the preferences of travelers and hosts, identify peak booking seasons, and discover interesting correlations between various attributes and booking trends. It empowers travelers to make informed choices when selecting AirBnB accommodations that best align with their preferences and requirements.
 
 ## Dataset
 The dataset used in this project is sourced from [here](https://drive.google.com/file/d/1ioU5r9KEYSfwgfUi22SclVkx4l1a_8ou/view?usp=sharing). It comprises a comprehensive collection of information related to Airbnb bookings, including:
 
 
-UNDERSTANDING THE VARIABLES:--
+UNDERSTANDING THE VARIABLES:
+         
          ID:-    Its a unique id of House/apartment.
          Name:-  Name of the listing House/apartment.
          Host Id:-  Host Id is the government approved id for each individuals.
@@ -29,8 +30,8 @@ UNDERSTANDING THE VARIABLES:--
                   >> Privae Room
                   >> Shared Room
          Price:-  price are in term of dollars($) and the total price of Airbnb  reservation is based on the cost
-determined by either the Host or Airbnb Co.
-         Minimum Nights:-  Minimun night is criteria for booking that guest have to pay for book that House or apartment.
+         determined by either the Host or Airbnb Co.
+         Minimum Nights:-  Minimun night is criteria for booking that guest have to pay for book that House or                  apartment.
          Number of reviews:-  counts of review which is submitted by guests.
          Last review:-  Latest review as per the dataset.
          Review per month:- Number of review per month host got.
