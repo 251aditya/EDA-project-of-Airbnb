@@ -1,13 +1,9 @@
-## EDA-project-of-Airbnb
+### AirBnb Booking Analysis
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Data Exploration](#data-exploration)
-- [Findings](#findings)
-- [Contributing](#contributing)
-- [License](#license)
+- [Conclusion](#conclusion)
 
 
 ## Introduction
@@ -40,3 +36,28 @@ determined by either the Host or Airbnb Co.
 * Review per month:- Number of review per month host got.
 * Calculated host listings count:-  Amount of listing per host.
 * Availibility_365:- It show the total number of days the listings is available for during the year.
+## Installation
+
+To run this project on your local machine, follow these steps:
+
+         Copy the colab file into your drive.
+
+         Run the colab file to gain insights.
+
+
+## Conclusion
+
+In conclusion, the Airbnb project has been a successful venture for both the company and its users. The platform has revolutionized the way people travel, offering a more affordable and unique way to stay in a city, as well as providing a source of income for hosts. The company has faced challenges, such as regulatory issues and competition from traditional hotels, but has continued to grow and expand globally.
+
+Here some more point :-
+
+1. The people who prefer to stay in Entire home or Apartment they are going to stay bit longer in that particular Neighbourhood only.
+2. The people who prefer to stay in Private room they won't stay longer as compared to Home or Apartment.
+3. Most people prefer to pay less price.
+4. If there are more number of Reviews for particular Neighbourhood group that means that place is a tourist place.
+5. If people are not staying more then one night means they are travellers or may be a businessman/employee to visit particular area for meetings.
+6. The most popular area for the hotel listing is Manhattan.
+7.The most popular location for hotel listing is Williamsberg.
+8.The most popular price range for hotel booking 0 to 50 dollars.
+9. Availability of the room can be 365 days.
+10. The popular figure of Minimum night stays for the hotel is 1 day.
