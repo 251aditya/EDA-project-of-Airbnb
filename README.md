@@ -1,4 +1,4 @@
-### AirBnb Booking Analysis
+# AirBnb Booking Analysis
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dataset](#dataset)
